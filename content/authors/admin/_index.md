@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: phD.student of Artificial Intelligence
+role: ph.D.student of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -46,7 +46,7 @@ highlight_name: true
 website: ""
 ---
 
-Yuping Qiu is a phD student of artificial intelligence at the ENVISION Lab. My research interests include
+Yuping Qiu is a ph.D student of artificial intelligence at the ENVISION Lab. My research interests include
 include self-supervised learning, autonomous driving and Generation models. Now my research focus on the Stylized generation of images and videos. My hobbies in life include playing badminton, cycling, and traveling. I welcome fellow enthusiasts to communicate with me! 
  
 
